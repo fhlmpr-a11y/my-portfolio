@@ -299,5 +299,10 @@ font-size: 16px;
         box-sizing: border-box;
         width: 100%;
     }
-
+.hero-button {
+    padding: 12px 22px;
+    font-size: 14px;
+    border-radius: 30px;
+    box-shadow: none;
+}
 }
